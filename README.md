@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @maqamylee0
+- 👋 Hi, I’m @maqamylee0 Namuganga Emmilly Immaculate
 - 👀 I’m interested in learning new technologies and using them to create solutions
-- 🌱 I’m currently learning web development,cyber security,IOT,
-- 💞️ I’m looking for internship and learning opportunities 
+- 🌱 I’m currently learning web and app development,cyber security,IOT,
+- 💞️ I’m looking for internship and learning opportunities as i finish my computer science degree
 - 📫 How to reach me maqamylee0@gmail.com
 
 <!---
