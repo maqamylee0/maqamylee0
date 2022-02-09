@@ -2,8 +2,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maqamylee0&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=maqamylee)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=maqamylee)](https://github.com/anuraghazra/github-readme-stats)
+ -->
 - 👋 Hi, I’m @maqamylee0 ***Namuganga Emmilly Immaculate***
 - 👀 I’m interested in learning new technologies and using them to create solutions
 - 🌱 I’m currently learning  web and app development,cyber security,IOT,
