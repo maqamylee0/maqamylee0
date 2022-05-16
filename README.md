@@ -2,7 +2,7 @@
   
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=maqamylee&v=2 )
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=maqamylee0&layout=compact)
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/maqamylee0/devcard.svg" width="400" alt="Emmilly's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/maqamylee0/maqamylee0/devcard.svg" width="400" alt="Emmilly's Dev Card"/></a>
 
  
 - 👋 Hi, I’m @maqamylee0 ***Namuganga Emmilly Immaculate***
