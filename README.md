@@ -1,6 +1,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maqamylee0&show_icons=true&theme=radical)
-  <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/maqamylee0/maqamylee0/blob/main/devcard.svg" width="400" alt="Emmilly's Dev Card"/></a>
+
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=maqamylee&v=2 )
+  <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/maqamylee0/maqamylee0/blob/main/devcard.svg" width="400" alt="Emmilly's Dev Card"/></a>
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=maqamylee0&layout=compact)
 
  
