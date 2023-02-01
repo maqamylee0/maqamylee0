@@ -11,7 +11,7 @@
 
 <!-- ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=maqamylee0&layout=compact)
  -->
-[![@emmillyimmaculate's Holopin board](https://holopin.me/emmillyimmaculate)](https://holopin.io/@emmillyimmaculate)
+<!-- [![@emmillyimmaculate's Holopin board](https://holopin.me/emmillyimmaculate)](https://holopin.io/@emmillyimmaculate) -->
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="60" height="60"/>
