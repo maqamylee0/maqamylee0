@@ -1,7 +1,7 @@
 
 
 - 👋 Hi, I’m @maqamylee0 ***Namuganga Emmilly Immaculate***
-- 👀 I’m interested in learning new technologies and using them to create solutions
+- 👀 I am interested in learning new technologies and using them to create solutions
 - 🌱 I love flutter.
 - 💞️ I love cloud computing.
 - 📫 How to reach me maqamylee0@gmail.com or emmillynamuganga@gmail.com
