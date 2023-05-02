@@ -1,7 +1,7 @@
 
 
 - 👋 Hi, I’m @maqamylee0 ***Namuganga Emmilly Immaculate*** 
-- 👀 I am interested in learning and discovering.
+- 👀 I am interested in learning and discovering
 - 🌱 I love flutter. Portfolio https://maqamylee0.github.io/#/
 - 💞️ I love cloud computing.
 - 🚀 Talk is cheap, show me the code.
