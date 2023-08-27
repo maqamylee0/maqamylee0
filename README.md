@@ -1,9 +1,9 @@
 
 
 - 👋 Hi, I’m @maqamylee0 ***Namuganga Emmilly Immaculate*** 
-- 👀 I am interested in learning and discovering
+- 👀 I am interested in building software products. 
 - 🌱 I love flutter. Portfolio https://maqamylee0.github.io/#/
-- 💞️ I love cloud computing.
+- 💞️ I love playing sports football, volleyball, table tennis, and double(board games) :)
 - 🚀 Talk is cheap, show me the code.
 - 📫 How to reach me maqamylee0@gmail.com or emmillynamuganga@gmail.com
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maqamylee0&show_icons=true&theme=radical)
