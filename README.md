@@ -1,7 +1,7 @@
 
 
 - 👋 Hi, I’m @maqamylee0 ***Namuganga Emmilly Immaculate*** 
-- 👀 I am interested in building software products. 
+- 👀 I am interested in building mobile application software products with flutter.
 - 🌱 I love flutter. Portfolio https://maqamylee0.github.io/#/
 - 💞️ I love playing sports football, volleyball, table tennis, and double(board games) :)
 - 🚀 Talk is cheap, show me the code.
