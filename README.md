@@ -6,6 +6,7 @@
 - 💞️ I love playing sports football, volleyball, table tennis, and double(board games) :)
 - 🚀 Talk is cheap, show me the code.
 - 📫 How to reach me maqamylee0@gmail.com or emmillynamuganga@gmail.com
+- Some of my CERN opensource contributions during my openlab summer internship - https://github.com/CERN/captcha-api/pull/10
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maqamylee0&show_icons=true&theme=radical)
 
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=maqamylee&v=2 )
