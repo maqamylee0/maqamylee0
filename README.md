@@ -1,10 +1,10 @@
 
 
 - 👋 Hi, I’m @maqamylee0 ***Namuganga Emmilly Immaculate*** 
-- 👀 I am interested in building mobile application software products with flutter.
-- 🌱 I love flutter. Portfolio https://maqamylee0.github.io/#/
+- 👀 In a nutshell, I just want to know why things happen the way they do. My favorite word is "WHY".
+- 🌱 I am hooked on computer science, software development, and tea.
 - 💞️ I love playing sports football, volleyball, table tennis, and double(board games) :)
-- 🚀 Talk is cheap, show me the code.
+- 🚀 Aiming for the stars
 - 📫 How to reach me maqamylee0@gmail.com or emmillynamuganga@gmail.com
 - Some of my CERN opensource contributions during my openlab summer internship - https://github.com/CERN/captcha-api/pull/10
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maqamylee0&show_icons=true&theme=radical)
